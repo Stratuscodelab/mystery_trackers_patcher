@@ -39,7 +39,7 @@ def patch_save(input_file: str):
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python patch_save.py <savefile.xml>")
+        print("Usage: python MTP.py <savefile.xml>")
         sys.exit(1)
 
     patch_save(sys.argv[1])

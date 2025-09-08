@@ -20,6 +20,6 @@ This tool fixes the checksum in **Mystery Trackers** save game files so you can 
 2. Run the patcher:
 
 ```bash
-python hex.py myeditedsavegame.xml
+python MTP.py myeditedsavegame.xml
 
 3. you can then put the patched save game file in with the other save game files.
